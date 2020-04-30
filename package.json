@@ -1,0 +1,19 @@
+{
+  "name": "weeny",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pan-alexey/weeny.git"
+  },
+  "author": "Pan Alexey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pan-alexey/weeny/issues"
+  },
+  "homepage": "https://github.com/pan-alexey/weeny#readme"
+}
